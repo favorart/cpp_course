@@ -32,6 +32,8 @@
 * Тестирование
 * Документация
 
+[![Watch the video](https://img.youtube.com/vi/1w2YpJVnxRI/maxresdefault.jpg)](https://youtu.be/1w2YpJVnxRI)
+
 [Лекция 1 — Проектирование.pdf](https://github.com/favorart/cpp_course/files/13997760/1.pdf)
 
 [Тест для самопроверки 1](https://onlinetestpad.com/wmzxllsjj7ir2)
@@ -50,6 +52,8 @@
 * Константа нулевого указателя
 * Нововведения в STL
 * Управление потоками
+
+[![Watch the video](https://img.youtube.com/vi/0kotcuRDOc0/maxresdefault.jpg)](https://youtu.be/0kotcuRDOc0)
 
 [Лекция 2 — C++11.pdf](https://github.com/favorart/cpp_course/files/13997769/2.C%2B%2B11.pdf)
 
@@ -147,6 +151,8 @@
 
 ### Лекция 6.1 Виды преобразований типов данных
 (2021)
+
+[![Watch the video](https://img.youtube.com/vi/5n39WzOYDPg/maxresdefault.jpg)](https://youtu.be/5n39WzOYDPg)
 
 [Тест для самопроверки для 6 и 6.1](https://onlinetestpad.com/cmsuauoa2a6a6)
 
