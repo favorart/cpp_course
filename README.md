@@ -11,13 +11,14 @@
 
 Кафедра МаТИС.
 
+[Использованная литература](https://github.com/favorart/cpp_course/blob/main/bibliography.md)
+
 ## Благодарности:
 * Автору блога http://scrutator.me
 * [Алексееву Дмитрию Владимировичу](http://intsys.msu.ru/staff/alexeev/)
 * [Алисейчику Павлу Александровичу](http://intsys.msu.ru/staff/aliseychik/)
 * [Гасанову Эльяру Эльдаровичу](http://intsys.msu.ru/staff/gasanov/)
 * [Калугину-Балашову Дмитрию Андреевичу](https://github.com/rvncerr)
-
 
 
 ## Лекция 1. Введение в проектирование ПО
@@ -32,6 +33,7 @@
 * Тестирование
 * Документация
 
+Видео-лекция:
 [![Watch the video](https://img.youtube.com/vi/1w2YpJVnxRI/maxresdefault.jpg)](https://youtu.be/1w2YpJVnxRI)
 
 [Лекция 1 — Проектирование.pdf](https://github.com/favorart/cpp_course/files/13997760/1.pdf)
@@ -53,7 +55,11 @@
 * Нововведения в STL
 * Управление потоками
 
+Видео-лекция (Часть 1):
 [![Watch the video](https://img.youtube.com/vi/0kotcuRDOc0/maxresdefault.jpg)](https://youtu.be/0kotcuRDOc0)
+
+Видео-лекция (Часть 2):
+[![Watch the video]()]()
 
 [Лекция 2 — C++11.pdf](https://github.com/favorart/cpp_course/files/13997769/2.C%2B%2B11.pdf)
 
@@ -199,7 +205,7 @@
 
 [Тест для самопроверки 8](https://onlinetestpad.com/rjubl65btmxtq)
 
-### Лекция *. дополнительная
+## Лекция *. дополнительная
 (2019)
 Содержание:
 * Заморозка нововведений (2019) для стандарта языка С++ 2020 г.
@@ -337,4 +343,9 @@
 [Лекция 14 — libevent-boost.asio.pdf](https://github.com/favorart/cpp_course/files/13997924/12.libevent-boost.asio.pdf)
 
 [Тест для самопроверки 14](https://onlinetestpad.com/uvpknz2rwcn64)
+
+
+
+## Рекомендованные видео-лекции для дальнейшего изучения
+[список](https://github.com/favorart/cpp_course/blob/main/recommend-video-lections.md)
 
