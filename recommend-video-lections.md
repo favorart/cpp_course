@@ -1,0 +1,15 @@
+# Рекомендованные видео-лекции для дальнейшего изучения:
+
+* [СodeFreeze: Евгений Кривошеев — Как не угробить архитектуру сразу же](https://www.youtube.com/watch?v=_Kex5hwGE-w)
+* [СodeFreeze: Евгений Кривошеев — Осознанность проектирования](https://www.youtube.com/watch?v=6m4XPje76WU)
+* [CppCon 2017: Bob Steagall — Guidelines How to Write a Custom Allocator](https://www.youtube.com/watch?v=kSWfushlvB8)
+* [Разработка: Алексей Чернигин — Магия метапрограмирования Boost.Geometry](https://www.youtube.com/watch?v=WKmlZ-VLmQU)
+* [FOSS4G 2013: Barend Gehrels— Boost.Geometry, Introduction And Examples](https://www.youtube.com/watch?v=mFXD8xSXzxI)
+* [Лекториум: Валерий Лесин — Эффективное использование С++](https://www.youtube.com/watch?v=3U7T9PwtmRc&list=PL-_cKNuVAYAXX8iBQ0SEERsEQOF_bR0IW&index=1)
+* [Лекториум: Константин Серебряный — Ошибки в программах на С++](https://www.youtube.com/watch?v=pi8naYUwzMc&list=PL-_cKNuVAYAWBWTK-mWhvbAD31KQT_kvN&index=1)
+* [GoingNative 2012: Andrei Alexandrescu — Variadic Templates are Funadic](https://www.youtube.com/watch?v=_zgq6_zFNGY)
+* [C++ Russia, 2015](https://www.youtube.com/playlist?list=PLrs_DcVZNww22J_uDSJn7bLNOlly7n8p2)
+* [C++ Russia, 2016](https://www.youtube.com/playlist?list=PLrs_DcVZNww21UVq-vrGSFwjJc_zvfb5u)
+* [Технострим: Алексей Петров — С++. Введение в Boost](https://www.youtube.com/watch?v=T6WxF5ANyIM&list=PLrCZzMib1e9rOysx0hgCaedIoOWNVjhQ0&index=8&t=0s)
+* [Boost Libraries](https://www.youtube.com/playlist?list=PLGvfHSgImk4YeA-Cn5u0IiW5wVe9Y5iYq)
+* [UNIGINE C++ School](https://www.youtube.com/playlist?list=PLgeSUiT3pydG7KchiEhjYvwkORh7TSGNi)
