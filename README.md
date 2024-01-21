@@ -5,13 +5,22 @@
 Прочитан для магистров первого и второго года обучения
 механико-математического факультета
 филиала МГУ им. М.В. Ломоносова в городе Ташкенте.
+
 * весна/2019
+* осень/2020
 * осень/2021
 * осень/2023
 
 Кафедра МаТИС.
 
 [Использованная литература](https://github.com/favorart/cpp_course/blob/main/bibliography.md)
+
+[Задачи для самостоятельного решения](https://github.com/favorart/cpp_course/blob/main/exercises.md)
+
+[Вопросы для проведения аттестации](https://github.com/favorart/cpp_course/blob/main/questions.md)
+
+[Список воспроизведения с лекциями](https://www.youtube.com/playlist?list=PL75Bl18xnIiEFIGenSQ4mUWXDGVKGGioH)
+
 
 ## Благодарности:
 * Автору блога http://scrutator.me
@@ -59,7 +68,7 @@
 [![Watch the video](https://img.youtube.com/vi/0kotcuRDOc0/maxresdefault.jpg)](https://youtu.be/0kotcuRDOc0)
 
 Видео-лекция (Часть 2):
-[![Watch the video]()]()
+[![Watch the video](https://img.youtube.com/vi/XDWoi91wiSg/maxresdefault.jpg)](https://youtu.be/XDWoi91wiSg)
 
 [Лекция 2 — C++11.pdf](https://github.com/favorart/cpp_course/files/13997769/2.C%2B%2B11.pdf)
 
@@ -78,6 +87,9 @@
 * Как передать объект класса Cu/C++ в/из Cu/C++?
 * Различия C99 и современный С++
 
+Видео-лекция:
+[![Watch the video](https://img.youtube.com/vi/lXUqOrU7g2k/maxresdefault.jpg)](https://youtu.be/lXUqOrU7g2k)
+
 [Лекция 3 — C and C++.pdf](https://github.com/favorart/cpp_course/files/13997770/3.C.and.C%2B%2B.pdf)
 
 [Тест для самопроверки 3](https://onlinetestpad.com/mn5rws2oiszso)
@@ -89,6 +101,12 @@
 * CRTP. Curiously Recurring Template Pattern
 * MixIn вариации
 * std::enable_shared_from_this
+
+Видео-лекция (извините за звук):
+[![Watch the video](https://img.youtube.com/vi/nJnB81nfoX0/maxresdefault.jpg)](https://youtu.be/nJnB81nfoX0)
+
+Видео-лекция (2019) (старая версия, может, лучше звук):
+[![Watch the video](https://img.youtube.com/vi/0pk-LW6eu4Q/maxresdefault.jpg)](https://youtu.be/0pk-LW6eu4Q)
 
 [Лекция 3.1 — polymorphisms.pdf](https://github.com/favorart/cpp_course/files/13997838/3.1.polymorphisms.pdf)
 
@@ -110,6 +128,12 @@
 * Передача аргументов функций по ссылке или по значению
 * std::decay
 
+Видео-лекция (Часть 1):
+[![Watch the video](https://img.youtube.com/vi/4jj95o-IYRE/maxresdefault.jpg)](https://youtu.be/4jj95o-IYRE)
+
+Видео-лекция (Часть 2):
+[![Watch the video](https://img.youtube.com/vi/7a-Uabku3JU/maxresdefault.jpg)](https://youtu.be/7a-Uabku3JU)
+
 [Лекция 4 — move-semantics.pdf](https://github.com/favorart/cpp_course/files/13997877/4.move-semantics.pdf)
 
 [Тест для самопроверки](https://onlinetestpad.com/yqdimxrimtnow)
@@ -127,6 +151,9 @@
 * std::bind
 * Обобщённая лямбда-функция
 
+Видео-лекция:
+[![Watch the video](https://img.youtube.com/vi/F5oMmxLhLu0/maxresdefault.jpg)](https://youtu.be/F5oMmxLhLu0)
+
 [Лекция 5 — lambda.pdf](https://github.com/favorart/cpp_course/files/13997883/5.lambda.pdf)
 
 ### Лекция 5.1 Нововведения стандарта языка С++ 2014 года
@@ -138,6 +165,9 @@
 * Обособленные строки и пользовательские литералы
 * std::optional и std::exception_ptr
 * std::complex
+
+Видео-лекция:
+[![Watch the video](https://img.youtube.com/vi/ewARl1xU5ic/maxresdefault.jpg)](https://youtu.be/ewARl1xU5ic)
 
 [Лекция 5.1 — C++14.pdf](https://github.com/favorart/cpp_course/files/13997882/5.1.C%2B%2B14.pdf)
 
@@ -153,20 +183,27 @@
 * Пишем класс DiscriminatedPtr
 * Применение в виде std::tuple
 
+Видео-лекция:
+[![Watch the video](https://img.youtube.com/vi/rIx2x-964_s/maxresdefault.jpg)](https://youtu.be/rIx2x-964_s)
+
 [Лекция 6 — variadic template.pdf](https://github.com/favorart/cpp_course/files/13997984/6.variadic.template.pdf)
 
 ### Лекция 6.1 Виды преобразований типов данных
 (2021)
 
+Видео-лекция:
 [![Watch the video](https://img.youtube.com/vi/5n39WzOYDPg/maxresdefault.jpg)](https://youtu.be/5n39WzOYDPg)
 
 [Тест для самопроверки для 6 и 6.1](https://onlinetestpad.com/cmsuauoa2a6a6)
 
-### Лекция 6*. Усложнённый вариант лекции 6
+### Лекция 6*. Усложнённый вариант изучения шаблонов с переменным числом параметров
 (2019)
 Содержание:
 * Продвинутые подходы мета-программирования
 * Пишем вместе std::tuple правильно!
+
+Видео-лекция:
+[![Watch the video](https://img.youtube.com/vi/o-rrifab4mA/maxresdefault.jpg)](https://youtu.be/o-rrifab4mA)
 
 [6*. variadic_templates.pdf](https://github.com/favorart/cpp_course/files/13998019/6.variadic_templates.pdf)
 
@@ -181,6 +218,12 @@
 * TypeErasure
 * std::any
 * std::function
+
+Видео-лекция (Часть 1):
+[![Watch the video](https://img.youtube.com/vi/UOZIZxTsyoU/maxresdefault.jpg)](https://youtu.be/UOZIZxTsyoU)
+
+Видео-лекция (Часть 2):
+[![Watch the video](https://img.youtube.com/vi/VYh4EfqDvP4/maxresdefault.jpg)](https://youtu.be/VYh4EfqDvP4)
 
 [Лекция 7 — sfinae.pdf](https://github.com/favorart/cpp_course/files/13997899/7.sfinae.pdf)
 
@@ -201,15 +244,21 @@
 * Copy elision
 * Атрибуты C++
 
+Видео-лекция:
+[![Watch the video](https://img.youtube.com/vi/CM9SfI8i6dw/maxresdefault.jpg)](https://youtu.be/CM9SfI8i6dw)
+
 [Лекция 8 — C++17.pdf](https://github.com/favorart/cpp_course/files/13997904/8.C%2B%2B17.pdf)
 
 [Тест для самопроверки 8](https://onlinetestpad.com/rjubl65btmxtq)
 
-## Лекция *. дополнительная
+## Лекция *. С++20 (дополнительная)
 (2019)
 Содержание:
 * Заморозка нововведений (2019) для стандарта языка С++ 2020 г.
 * Исчерпывающий список нововведений с объяснением некоторых новых механизмов
+
+Видео-лекция:
+[![Watch the video](https://img.youtube.com/vi/XLjSuO18I2Q/maxresdefault.jpg)](https://youtu.be/XLjSuO18I2Q)
 
 [Лекция * — C++20.pdf](https://github.com/favorart/cpp_course/files/13997910/C%2B%2B20.pdf)
 
@@ -228,6 +277,9 @@
 * Условные переменные
 * Барьеры
 * Асинхронность (std::promise, std::future, std::async)
+
+Видео-лекция:
+[![Watch the video](https://img.youtube.com/vi/SQ9XPLBt1U8/maxresdefault.jpg)](https://youtu.be/SQ9XPLBt1U8)
 
 [Лекция 9 — Процесс и поток.pdf](https://github.com/favorart/cpp_course/files/13997928/13.pdf)
 
@@ -253,6 +305,9 @@
 * Polymorphic memory resource (PMR)
 * Polymorphic Allocator
 
+Видео-лекция:
+[![Watch the video](https://img.youtube.com/vi/qMIjZoehxS0/maxresdefault.jpg)](https://youtu.be/qMIjZoehxS0)
+
 [Лекция 10 — allocator.pdf](https://github.com/favorart/cpp_course/files/13997919/14.allocator.pdf)
 
 [Тест для самопроверки 10](https://onlinetestpad.com/tbilfvk334jam)
@@ -264,6 +319,9 @@
 * std::unique_ptr
 * std::shared_ptr
 * std::weak_ptr
+
+Видео-лекция:
+[![Watch the video](https://img.youtube.com/vi/RflBfQZa8Jo/maxresdefault.jpg)](https://youtu.be/RflBfQZa8Jo)
 
 [Лекция 10.1 — smart-pointers.pdf](https://github.com/favorart/cpp_course/files/13997839/3.2.smart-pointers.pdf)
 
@@ -289,11 +347,24 @@
 * Boost.PointerContainer
 * Boost.ScopeExit
 
+Видео-лекция:
+[![Watch the video](https://img.youtube.com/vi/cz4lEusQ8UY/maxresdefault.jpg)](https://youtu.be/cz4lEusQ8UY)
+
 [Лекция 11 — boost.pdf](https://github.com/favorart/cpp_course/files/13997911/9.boost.pdf)
 
 [Тест для самопроверки 11](https://onlinetestpad.com/jd56s63xlgkmq)
 
 ### Лекция 11.1. Тестирование. Тесты покрытия кода
+(2021)
+Содержание:
+* boost-test
+* google-test
+* visual-studio native unit-test
+* visual-studio test-explorer
+* code-coverage: lcov
+
+Видео-лекция:
+[![Watch the video](https://img.youtube.com/vi/KmYgOk_td-g/maxresdefault.jpg)](https://youtu.be/KmYgOk_td-g)
 
 [Лекция 11.1 — Тесты, покрытие кода.pdf](https://github.com/favorart/cpp_course/files/13997914/9.1.pdf)
 
@@ -309,6 +380,9 @@
 * Особенности
 * Примеры
 * Обоснование конструкции
+
+Видео-лекция:
+[![Watch the video](https://img.youtube.com/vi/s5U1xE_imdI/maxresdefault.jpg)](https://youtu.be/s5U1xE_imdI)
 
 [Лекция 12 — boost geometry.pdf](https://github.com/favorart/cpp_course/files/13997915/10.boost.geometry.pdf)
 
@@ -327,6 +401,9 @@
 * Мультиплексирование
 * select, poll, epoll, kqueue
 
+Видео-лекция:
+[![Watch the video](https://img.youtube.com/vi/-okyrqWjoTc/maxresdefault.jpg)](https://youtu.be/-okyrqWjoTc)
+
 [Лекция 13 — Сокеты.pdf](https://github.com/favorart/cpp_course/files/13997917/11.pdf)
 
 [Тест для самопроверки 13](https://onlinetestpad.com/u36ygn7vngfz4)
@@ -339,6 +416,9 @@
 * libevent
 * libev
 * boost.asio
+
+Видео-лекция:
+[![Watch the video](https://img.youtube.com/vi/0gbMYyc1joE/maxresdefault.jpg)](https://youtu.be/0gbMYyc1joE)
 
 [Лекция 14 — libevent-boost.asio.pdf](https://github.com/favorart/cpp_course/files/13997924/12.libevent-boost.asio.pdf)
 
